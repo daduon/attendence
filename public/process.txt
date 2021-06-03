@@ -1,0 +1,20 @@
+Part I
+Install laravel + vue
+Install vue-router
+Setup vue-router
+Create components for each route
+Testing vue-router
+
+Part II
+Install vuetify
+Setup vuetify
+Customize components with vuetify
+Testing..
+
+Part III
+Setup database
+Install laravel Sanctum
+lets do migrate
+Create API for Register, Login Logout -- lets create a controller
+Customize components
+Testing...
